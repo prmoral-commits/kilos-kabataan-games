@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="fil"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mga Larong Interaktibo | KILOS KABATAN</title><style>
+:root{--ink:#20251f;--muted:#626b61;--paper:#fffdf7;--leaf:#3d684d;--gold:#e9b949;--line:#e6e1d5;--soft:#f4f0e5}
+*{box-sizing:border-box}body{margin:0;background:linear-gradient(135deg,#f5f0df,#edf3e9);color:var(--ink);font:16px/1.5 system-ui,-apple-system,Segoe UI,sans-serif}
+main{max-width:900px;margin:28px auto;padding:20px}.panel{background:var(--paper);border:1px solid var(--line);border-radius:20px;padding:clamp(18px,4vw,32px);box-shadow:0 12px 35px #29351c12}
+.kicker{color:var(--leaf);font-weight:800;letter-spacing:.08em;text-transform:uppercase;font-size:.78rem}
+h1{font-size:clamp(1.8rem,5vw,2.7rem);line-height:1.1;margin:.35rem 0 .6rem}p{color:var(--muted)}button{border:0;border-radius:12px;padding:12px 17px;background:var(--leaf);color:white;font-weight:750;cursor:pointer;font-size:1rem}button.secondary{background:var(--soft);color:var(--ink);border:1px solid var(--line)}button:disabled{opacity:.45;cursor:not-allowed}
+.actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:18px}.notice{padding:12px 14px;border-radius:12px;background:var(--soft);margin:14px 0}.grid{display:grid;gap:12px}.two{grid-template-columns:repeat(auto-fit,minmax(220px,1fr))}
+label{display:block}.small{font-size:.9rem;color:var(--muted)}.status{font-weight:750;margin-top:12px;min-height:1.5em}
+a{color:var(--leaf)}.progress{height:9px;background:var(--soft);border-radius:99px;overflow:hidden}.progress>i{display:block;height:100%;background:var(--gold);width:0}
+</style></head>
+<body><main><section class="panel"><div class="kicker">KILOS KABATAN • SILID-ARALAN</div><h1>Mga Larong Interaktibo</h1><p>Mga gawaing pampagkatuto tungkol sa mabuti at mapanagutang pagboto.</p><style>.game{display:flex;justify-content:space-between;gap:12px;align-items:center;text-decoration:none;color:var(--ink);padding:17px;border:1px solid var(--line);border-radius:13px;background:#fff;margin:10px 0}.game span{color:var(--leaf);font-weight:700;font-size:.9rem}</style><div class="notice">Piliin ang larong nais buksan. Bawat laro ay may sariling pahina at maaaring gamitin sa talakayan tungkol sa mabuti at mapanagutang pagboto.</div><a class="game" href="basagin-ang-koneksiyon.html"><b>Basagin ang Koneksiyon!</b><span>Buksan ang laro →</span></a><a class="game" href="wordle-political-dynasty.html"><b>Wordle: Political Dynasty Edition</b><span>Buksan ang laro →</span></a><a class="game" href="whos-the-impostor.html"><b>Who's the Impostor?</b><span>Buksan ang laro →</span></a><a class="game" href="never-have-i-ever.html"><b>Never Have I Ever</b><span>Buksan ang laro →</span></a></section>
+<p class="small" style="text-align:center">KILOS KABATAN • Kagamitang pantulong sa edukasyon sa pagboto</p></main><script></script></body></html>
